@@ -12,6 +12,7 @@
 - 📫 &nbsp; How to reach me...
   - nathanburgess@me.com is my primary email for more professional correspondence
   - atroxrg@gmail.com is my brand email for content related to reactive.gg or Twitch stream
+  - Atrox#0001 on Discord
 - 😄 &nbsp; Pronouns: he/him
 - ⚡ &nbsp; Fun facts:
   - I served six years as a Cryptolinguist in the USAF.
