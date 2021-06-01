@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on...
+  - trylido.com
+  - reactive.gg
+- 🌱 I’m currently learning...
+  - German and Japanese (also refreshing my Hebrew)
+- 👯 I’m looking to collaborate on...
+  - reactive.gg (NodeJS, React, GraphQL, Discord.js)
+- 💬 Ask me about ...
+  - Anything tech-related, I love talking technology whether it's something I know a ton about or something that's completely new to me
+- 📫 How to reach me...
+  - nathanburgess@me.com is my primary email for more professional correspondence
+  - atroxrg@gmail.com is my brand email for content related to reactive.gg or Twitch stream
+- 😄 Pronouns: he/him
+- ⚡ Fun facts:
+  - I served six years as a Cryptolinguist in the USAF.
+  - I developed and maintained an enterprise-scale, near-real-time data analytics service in PHP and jQuery back in 2010 for the NSA that was used by over 5,000 deployed troops and commanders. The platform helped track IEDs and other militant activity that allowed mission planning to prefer routes with less chances for coalition casualties.
+  - I founded and run a small gaming community with around ~200 active members.
+  - I was the CTO of a political technology startup for 3 years.
+
 <!--
 **nathanburgess/nathanburgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
