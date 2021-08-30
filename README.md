@@ -10,6 +10,8 @@
     - Website written in React (Next.js)
   - https://atrox.gg
     - Static website written in React (Next.js)
+  - https://nathanburgess.dev/
+    - Static website written in React (Next.js)
 - 🌱 &nbsp; I’m currently learning...
   - German and Japanese (also refreshing my Hebrew)
 - 👯 &nbsp; I’m looking to collaborate on...
