@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 &nbsp; I’m currently working on...
-  - https://trylido.com
-    - GraphQL API written in Node
-    - Website written in React (Next.js)
+  - https://greenlite.io
+    - Modern and serverless JAMstack app
+    - We're building a SaaS product that helps make getting construction permits faster, easier, and cheaper 
   - https://reactive.gg - The homepage for Reactive Gaming
     - GraphQL API written in Node
     - Discord Bot written in Node
