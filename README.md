@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 &nbsp; I’m currently working on...
-  - https://greenlite.io
+  - https://greenlite.com
     - Modern and serverless JAMstack app
     - We're building a SaaS product that helps make getting construction permits faster, easier, and cheaper 
   - https://reactive.gg - The homepage for Reactive Gaming
